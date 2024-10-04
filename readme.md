@@ -3,10 +3,7 @@ Overview
 This application simulates a basic stock trading bot using Node.js. The bot monitors stock price changes and executes trades based on predefined strategies. It also tracks the balance, holdings, and profit/loss from trades.
 
 Project Structure
-scss
-Copy code
 /stock-trading-bot
-    /src
         - server.js           // Main server file
         - tradingLogic.js     // Contains trading logic and bot state
         - mockData.js         // Generates mock stock price data
